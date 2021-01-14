@@ -9,6 +9,10 @@ h1{
   margin: 0px 0px 10px;
 }
 
+h1, h2{
+  text-transform: uppercase;
+  color: #eb7100;
+}
 
 p{
   text-align:justify;
